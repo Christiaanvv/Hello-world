@@ -1,2 +1,2 @@
 # Hello-world
-first github project/tut
+Hello, this is the first github change i made.
